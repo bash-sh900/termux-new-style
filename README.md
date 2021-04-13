@@ -13,4 +13,6 @@
 <br>
 [6] python install.py
 <br>
+<br>
+
 <img src="https://github.com/bash-sh900/termux-new-style/blob/main/Screenshot_20210413-231119.jpg"/>
