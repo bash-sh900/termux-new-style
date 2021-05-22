@@ -1,6 +1,6 @@
 #b.a..n.n.e.r
 #w.e.l.c.m.e To my Tools
-#Watsapp 0642663312
+#whatsapp 0642663312
 #gmail  bash2004sh@gmail.com
 from os import system
 from time import sleep
