@@ -21,7 +21,8 @@ class Script():
     def _pkg_(self):
         system("pkg update -y ; pkg upgrade -y")
         system("pkg install figlet -y ; pkg install cmatrix -y")
-        system("pkg install ruby -y ; gem install lolcat -y")
+        system("pkg install ruby -y')
+        system('gem install lolcat')
         system("clear;figlet done !|lolcat ; sleep 1")
     def _logo_(self):
         system("clear")
