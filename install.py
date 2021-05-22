@@ -20,6 +20,7 @@ class Script():
         self.cyan=cyan
     def _pkg_(self):
         system("pkg update -y ; pkg upgrade -y")
+        system('pkg install cowsay -y')
         system("pkg install figlet -y ; pkg install cmatrix -y")
         system("pkg install ruby -y')
         system('gem install lolcat')
